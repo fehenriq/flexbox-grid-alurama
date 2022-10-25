@@ -175,7 +175,7 @@ img:hover {
 }
 
 .destaques {
-    padding: 30px 0 10px;
+    padding: 20px 0 20px;
     white-space: nowrap;
 }
 
@@ -450,10 +450,6 @@ img:hover {
     /*categorias*/
     .categorias {
         margin-bottom: 1.5rem;
-    }
-
-    .categorias__titulo {
-        margin-bottom: 0;
     }
 
     .destaques {
